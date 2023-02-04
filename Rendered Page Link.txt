@@ -1,0 +1,2 @@
+Using the following link the page can be viewed: -
+http://htmlpreview.github.io/?https://github.com/dhiraj-inti/Travel-Diary-using-HTML-and-CSS/blob/master/Home.html
